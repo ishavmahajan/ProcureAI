@@ -23,4 +23,17 @@ Procurement teams often compare supplier information manually across documents a
 
 ## Current Status
 
-Day 1: Development environment and initial Python quote calculator.
+### Checkpoint 1: Project Foundation
+
+- Configured the Python development environment
+- Created the project structure
+- Initialized Git and connected GitHub
+- Built the initial quote calculator
+
+### Checkpoint 2: Interactive Supplier Comparison
+
+- Accepts user-entered procurement information
+- Validates quantity and price inputs
+- Compares two supplier quotes
+- Recommends the lower-cost supplier
+- Calculates estimated savings
